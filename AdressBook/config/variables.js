@@ -1,0 +1,1 @@
+export const API_URL = 'https://address-book-api-kfpkaqtghu.now.sh';
